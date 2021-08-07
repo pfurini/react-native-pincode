@@ -1,6 +1,6 @@
 {
   "name": "@pfurini/react-native-pincode",
-  "version": "99.0.2",
+  "version": "99.0.3",
   "description": "React native PIN code component (fork of 1.22.6)",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
